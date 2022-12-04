@@ -6,7 +6,7 @@ const mainRouter = require('./routes/main');
 const userRouter = require('./routes/users');
 
 const app = express();
-const PORT = 8000;
+const PORT = 7000;
 
 // ejs setting
 app.set('view engine', 'ejs');
